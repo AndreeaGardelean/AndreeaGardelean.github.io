@@ -7,7 +7,7 @@
   "display" : "fullscreen",
   "icons" : [
     {
-      "src" : "../resources/ToDoIcon.png",
+      "src" : "/ToDoIcon.png",
       "type" : "image/png",
       "sizes" : "192x192"
     }
