@@ -2,7 +2,7 @@
   "short-name" : "To-Do List",
   "name" : "To-Do List",
   "description" : "Plan your day ahead for success. Use this app to padd your tasks for today, keep track of your tasks while online and offline.",
-  "start_url" : "/Proof%20Of%20Concept/ToDoList/ToDo.html",
+  "start_url" : "/Proof%20Of%20Concept/ToDoList/index.html",
   "scope" : "/",
   "display" : "fullscreen",
   "icons" : [
